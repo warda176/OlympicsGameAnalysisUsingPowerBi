@@ -1,4 +1,4 @@
-# OlympicsameAnalysisUsingPowerBi
+# OlympicGamesAnalysisUsingPowerBi
 
 Olympic Games Analysis
 
